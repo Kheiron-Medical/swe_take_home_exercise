@@ -9,7 +9,7 @@ You can make the following assumptions:
 * The input literals are positive integers
 * Calculations can be done in the floating-point or integer domain
 * Handling division by zero is unimportant; program can crash or do anything if that arises.
-* You don't need to consider operator presidence
+* You don't need to consider operator precedence
 * You are free to use any programming language of choice but please provide any requirements to run the code EG: Python version or Pip dependencies
 
 ### Sample input (caret prompt for clarity only):
