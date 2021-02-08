@@ -11,7 +11,7 @@ You can make the following assumptions:
 * Handling division by zero is unimportant; program can crash or do anything if that arises.
 * You don't need to consider operator presidence
 * You are free to use any programming language of choice but please provide any requirements to run the code EG: Python version or Pip dependencies
-* Important: Your implementation should use O(1) space complexity and O(N) time complexity
+* ### Important: Your solution should use O(1) space complexity and O(N) time complexity
 
 ### Sample input (caret prompt for clarity only):
 ```
