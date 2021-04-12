@@ -46,7 +46,7 @@ Implement your calculator in infix notation with support for full-parenthesized 
 > ( ( 1 * 2 ) + 3 )
 5
 > ( ( ( 1 + 1 ) / 10 ) - ( 1 * 2 ) )
--1 (or -1.8)
+-2 (or -1.8)
 ```
 
 ## Additional Bonus
